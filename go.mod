@@ -1,4 +1,4 @@
-module cpu
+module github.com/tqtrungse/cpu
 
 go 1.26.0
 
